@@ -13,6 +13,8 @@ https://ieeexplore.ieee.org/document/9108691
 強化学習アルゴリズムとしては、PPOというものを用いています。
 
 ## Demo
+白い箱が障害物です。この障害物を回避した経路計画が可能です。
+始点と終点はランダムに生成しています。
 
 https://github.com/Shiccho/DGDRL_implementation/assets/94341374/6e4c3b72-603b-4909-960b-453e3f408385
 
