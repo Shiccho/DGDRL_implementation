@@ -10,8 +10,9 @@ https://ieeexplore.ieee.org/document/9108691
 短時間での経路計画ができることで、リアルタイムの操作が可能です。
 
 強化学習の環境としてPyBulletという物理シミュレータを用いています。
+強化学習アルゴリズムとしては、PPOというものを用いています。
 
 ## Demo
 
-https://github.com/Shiccho/DGDRL_implementation/assets/94341374/c9f38789-bea9-4614-ac49-f44a7ee95219
+https://github.com/Shiccho/DGDRL_implementation/assets/94341374/6e4c3b72-603b-4909-960b-453e3f408385
 
