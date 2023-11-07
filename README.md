@@ -18,3 +18,6 @@ https://ieeexplore.ieee.org/document/9108691
 
 https://github.com/Shiccho/DGDRL_implementation/assets/94341374/6e4c3b72-603b-4909-960b-453e3f408385
 
+## How to use
+1. makePList.pyを実行し、始点と終点のデータセットを作成
+2. main.pyを実行
