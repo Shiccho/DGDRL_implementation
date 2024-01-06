@@ -7,7 +7,7 @@ https://ieeexplore.ieee.org/document/9108691
 ## 論文について
 このリポジトリは、Kaveh Kamaliらの"Real-time Motion Planning for Robotic Teleoperation Using Dynamic-goal Deep Reinforcement Learning"という論文についての個人による非公式の実装です。
 この論文では、ロボットアームの制御に強化学習を用いることで、障害物を回避する軌跡を短時間で生成する手法が提案されています。
-短時間での経路計画ができることで、リアルタイムでロボットアームの操作が可能です。
+短時間での経路計画ができるため、リアルタイムでロボットアームの操作が可能です。
 
 強化学習アルゴリズムとして、PPOを用いています。
 ## 実装について
